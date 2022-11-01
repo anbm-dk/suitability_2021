@@ -230,7 +230,7 @@ maxrows <- max(unlist(lapply(prev_freqs_3, FUN = function(x) nrow(x))))
 mean_prev_freq <- lapply(prev_freqs_3, function(x)
 {
   out <- data.frame(code = x[, 1]
-                    , name = crop_codes_all$Afgrøde[match(x$value, crop_codes_all$Kode)]
+                    , name = crop_codes_all$AfgrÃ¸de[match(x$value, crop_codes_all$Kode)]
                     , mean = apply(x[, 2:9], 1, mean))
   out <- out[order(out$mean, decreasing = TRUE), ]
   while(nrow(out) < maxrows) {
@@ -295,7 +295,7 @@ maxrows <- max(unlist(lapply(gini_difs, FUN = function(x) nrow(x))))
 mean_gini_dif <- lapply(gini_difs, function(x)
 {
   out <- data.frame(code = x[, 1]
-                    , name = crop_codes_all$Afgrøde[match(x[, 1], crop_codes_all$Kode)]
+                    , name = crop_codes_all$AfgrÃ¸de[match(x[, 1], crop_codes_all$Kode)]
                     , mean = apply(x[, 2:9], 1, function(x2) mean(x2, na.rm = TRUE)))
   out <- out[order(out$mean, decreasing = TRUE), ]
   while(nrow(out) < maxrows) {
@@ -384,7 +384,7 @@ maxrows <- max(unlist(lapply(gini_difs_2, FUN = function(x) nrow(x))))
 mean_gini_dif_2 <- lapply(gini_difs_2, function(x)
 {
   out <- data.frame(code = x[, 1]
-                    , name = crop_codes_all$Afgrøde[match(x[, 1], crop_codes_all$Kode)]
+                    , name = crop_codes_all$AfgrÃ¸de[match(x[, 1], crop_codes_all$Kode)]
                     , mean = apply(x[, 2:9], 1, function(x2) mean(x2, na.rm = TRUE))
                     , perc = apply(x[, 10:ncol(x)], 1, function(x2) mean(x2, na.rm = TRUE)))
   out <- out[order(out$mean, decreasing = TRUE), ]
