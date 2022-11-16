@@ -1,0 +1,94 @@
+Kode;Afgrøde;Kategori;Note;Alt_cat;alt_cat_code
+1;Vårbyg;vårbyg;2019;springbarley;c13
+2;Vårhvede;vårhvede;2019;springwheat;c19
+3;Vårhavre;vårhavre;2019;springoats;c14
+6;Vårhvede, brødhvede;vårhvede;2019;springwheat;c19
+8;Vårspelt;vårspelt;2019;springspelt;c17
+9;Vinterspelt;vinterspelt;2019;winterspelt;c24
+10;Vinterbyg;vinterbyg;2019;winterbarley;c20
+11;Vinterhvede;vinterhvede;2019;winterwheat;c26
+13;Vinterhvede, brødhvede;vinterhvede;2019;winterwheat;c26
+14;Vinterrug;vinterrug;2019;winterrye;c23
+15;Vinterhybridrug;vinterrug;2019;winterrye;c23
+16;Vintertriticale;vintertriticale;2019;wintertriticale;c25
+21;Vårraps;vårraps;2019;springrapeseed;c15
+22;Vinterraps;vinterraps;2019;winterrapeseed;c22
+55;Vårrug;vårrug;2019;springrye;c16
+56;Vårtriticale;vårtriticale;2019;springtriticale;c18
+57;Vinterhavre;vinterhavre;2019;winteroats;c21
+170;Græs til fabrik (omdrift);græs eller andet grøntfoder;2019;grass;c12
+172;Lucernegræs, over 25% græs til slæt inkl. eget foder;græs eller andet grøntfoder;2019;grass;c12
+174;Kløvergræs til fabrik;græs eller andet grøntfoder;2019;grass;c12
+210;Vårbyg, helsæd;vårbyg;2019;springbarley;c13
+211;Vårhvede, helsæd;vårhvede;2019;springwheat;c19
+212;Vårhavre, helsæd;vårhavre;2019;springoats;c14
+220;Vinterbyg, helsæd;vinterbyg;2019;winterbarley;c20
+221;Vinterhvede, helsæd;vinterhvede;2019;winterwheat;c26
+222;Vinterrug, helsæd;vinterrug;2019;winterrye;c23
+223;Vintertriticale, helsæd;vintertriticale;2019;wintertriticale;c25
+247;Miljøgræs MVJ-tilsagn (0 N), omdrift;græs eller andet grøntfoder;2019;grass;c12
+248;Permanent græs ved vandboring;(afgrøden har ingen kategori);2019;grass;c12
+249;Udnyttet græs ved vandboring;græs eller andet grøntfoder;2019;grass;c12
+250;Permanent græs, meget lavt udbytte;(afgrøden har ingen kategori);2019;grass;c12
+251;Permanent græs, lavt udbytte;(afgrøden har ingen kategori);2019;grass;c12
+252;Permanent græs, normalt udbytte;(afgrøden har ingen kategori);2019;grass;c12
+253;Miljøgræs MVJ-tilsagn (80 N), omdrift;græs eller andet grøntfoder;2019;grass;c12
+254;Miljøgræs MVJ-tilsagn (0 N), permanent;(afgrøden har ingen kategori);2019;grass;c12
+255;Permanent græs, under 50% kløver/lucerne;(afgrøden har ingen kategori);2019;grass;c12
+256;Permanent kløvergræs, over 50% kløver/lucerne;(afgrøden har ingen kategori);2019;grass;c12
+257;Permanent græs, uden kløver;(afgrøden har ingen kategori);2019;grass;c12
+258;Permanent græs, ø-støtte;;2018;grass;c12
+259;Permanent græs, fabrik, over 6 tons;(afgrøden har ingen kategori);2019;grass;c12
+260;Græs med kløver/lucerne, under 50 % bælgpl. (omdrift);græs eller andet grøntfoder;2019;grass;c12
+261;Kløvergræs, over 50% kløver (omdrift);græs eller andet grøntfoder;2019;grass;c12
+262;Lucernegræs, over 50% lucerne (omdrift);græs eller andet grøntfoder;2019;grass;c12
+263;Græs uden kløvergræs (omdrift);græs eller andet grøntfoder;2019;grass;c12
+264;Græs og kløvergræs uden norm, under 50 % kløver (omdrift);græs eller andet grøntfoder;2019;grass;c12
+265;Græs/kløvergræs slæt før vårsåede afgrøder;;2011;grass;c12
+266;Græs under 50% kløver/lucerne, ekstremt lavt udbytte (omdrift);græs eller andet grøntfoder;2019;grass;c12
+267;Græs  under 50% kløver/lucerne, meget lavt udbytte (omdrift);græs eller andet grøntfoder;2019;grass;c12
+268;Græs under 50% kløver/lucerne, lavt udbytte (omdrift);græs eller andet grøntfoder;2019;grass;c12
+269;Græs, rullegræs;græs eller andet grøntfoder;2019;grass;c12
+270;Græs til udegrise, omdrift;græs eller andet grøntfoder;2019;grass;c12
+272;Permanent græs til fabrik;(afgrøden har ingen kategori);2019;grass;c12
+274;Permanent lucernegræs over 25% græs, til fabrik;(afgrøden har ingen kategori);2019;grass;c12
+275;Rullegræs, permanent;;2011;grass;c12
+276;Permanent græs og kløvergræs uden norm, under 50 % kløver;(afgrøden har ingen kategori);2019;grass;c12
+278;Permanent lucerne og lucernegræs over 50% lucerne;(afgrøden har ingen kategori);2019;grass;c12
+279;Permanent kløvergræs til fabrik;(afgrøden har ingen kategori);2019;grass;c12
+284;"Græs med vikke og andre bælgplanter, under 50 % bælgpl.
+";græs eller andet grøntfoder;2019;grass;c12
+285;Græs og kløvergræs uden norm, over 50 % kløver (omdrift);græs eller andet grøntfoder;2019;grass;c12
+286;Permanent græs og kløvergræs uden norm, over 50 % kløver;(afgrøden har ingen kategori);2019;grass;c12
+287;Græs til udegrise, permanent;(afgrøden har ingen kategori);2019;grass;c12
+305;Permanent græs, uden udbetaling af økologi-tilskud;(afgrøden har ingen kategori);2019;grass;c12
+306;Græs i omdrift, uden udbetaling af økologi-tilskud;græs eller andet grøntfoder;2019;grass;c12
+308;MFO-brak, sommerslåning;brak;2019;fallow;c11
+309;Udyrket areal ved vandboring;brak;2019;fallow;c11
+310;Brak, sommerslåning;brak;2019;fallow;c11
+312;20-årig udtagning;brak;2019;fallow;c11
+315;Miljøgræs brugt som udtagning;;2011;fallow;c11
+317;Vådområder med udtagning;brak;2019;fallow;c11
+320;Braklagte randzoner;;2011;fallow;c11
+323;MFO-udyrket areal ved vandboring;brak;2019;fallow;c11
+324;Blomsterbrak;brak;2019;fallow;c11
+325;MFO-Blomsterbrak;brak;2019;fallow;c11
+327;MFO-bræmme, sommerslåning;brak;2019;fallow;c11
+328;MFO-bræmme med blomsterblanding;brak;2019;fallow;c11
+329;MFO-bræmme, miljøtilsagn;brak;2019;fallow;c11
+334;MFO-bræmme, forårsslåning;brak;2019;fallow;c11
+335;MFO-bræmme, permanent græs, forårsslåning;(afgrøden har ingen kategori);2019;fallow;c11
+336;MFO-bræmme, permanent græs, sommerslåning ;(afgrøden har ingen kategori);2019;fallow;c11
+337;MFO-bræmme, permanent græs, miljøtilsagn;(afgrøden har ingen kategori);2019;fallow;c11
+338;Brak, forårsslåning;brak;2019;fallow;c11
+339;MFO-brak, forårsslåning;brak;2019;fallow;c11
+340;Randzoneordning, PD uden udtagningsforpligtigelse;;2011;fallow;c11
+341;Randzoneordning, Pd med udtagningsforpligtigelse;;2011;fallow;c11
+342;Bestøverbrak;;2019;fallow;c11
+343;MFO-bestøverbrak;;2019;fallow;c11
+350;Miljøgræs med N-kvote;;2011;fallow;c11
+486;Hønsegård uden plantedække;brak;2019;fallow;c11
+488;Hønsegård, permanent græs;(afgrøden har ingen kategori);2019;grass;c12
+777;Ex-non-food brak;;2011;fallow;c11
+920;Økologisk sommerbra;;2017;fallow;c11
+921;Bar jord;;2017;fallow;c11

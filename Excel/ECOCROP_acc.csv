@@ -1,0 +1,40 @@
+;IMK;IMK_DK;IMK_UK;ECOCROP;ECOCROP_NAME;IMK_UK2;ECOCROP_NAME2;ECOCROP2;OA;AUC;;ECOCROP code;Name;OA;AUC
+1;152;Kartofler, spise-;Table potatoes;1;Potato;Tablepotatoes;Potato;1;0.49;0.49;;1;Potato;0.49;0.49
+2;400;Asieagurker;Gherkin;463;West Indian gherkin;Gherkin;WestIndiangherkin;463;0.50;0.75;;2;Maize;0.51;0.5
+3;401;Asparges;Aspargus;353;Asparagus;Aspargus;Asparagus;353;0.49;0.49;;3;European wine grape;0.5;0.5
+4;403;Blomkål;Cauliflower;153;Cauliflower;Cauliflower;Cauliflower;153;0.50;0.50;;17;Tomato;0.45;0.7
+5;404;Broccoli;Broccoli;358;Sprouting broccoli;Broccoli;Sproutingbroccoli;358;0.49;0.47;;21;Apple;0.5;0.5
+6;406;Grønkål;Kale;41;Cabbage;Kale;Cabbage;41;0.51;0.41;;27;Onion;0.49;0.51
+7;407;Gulerod;Carrot;62;Carrot;Carrot;Carrot;62;0.50;0.42;;41;Cabbage;0.5;0.57
+8;408;Hvidkål;White cabbage;41;Cabbage;Whitecabbage;Cabbage;41;0.50;0.58;;48;Pea;0.49;0.5
+9;410;Knoldselleri;Celeriac;367;Celeriac;Celeriac;Celeriac;367;0.50;0.64;;49;Cucumber;0.51;0.67
+10;411;Løg;Onions;27;Onion;Onions;Onion;27;0.49;0.51;;62;Carrot;0.5;0.42
+11;412;Pastinak;Parsnip;442;Parsnip;Parsnip;Parsnip;442;0.50;0.36;;63;Lettuce;0.5;0.5
+12;413;Rodpersille;Root parsley;385;Parsley;Rootparsley;Parsley;385;0.51;0.48;;88;Garden strawberry;0.51;0.5
+13;415;Porre;Leek;446;Leek;Leek;Leek;446;0.52;0.49;;97;Cherry, Sweet;0.5;0.76
+14;417;Rødbede;Beet;458;Garden beet;Beet;Gardenbeet;458;0.50;0.50;;98;Plum;0.48;0.71
+15;418;Rødkål;Red cabbage;41;Cabbage;Redcabbage;Cabbage;41;0.50;0.72;;153;Cauliflower;0.5;0.5
+16;420;Salat (friland);Lettuce;63;Lettuce;Lettuce;Lettuce;63;0.50;0.50;;163;Pumpkin;0.5;0.71
+17;421;Savoykål, spidskål;Savoy cabbage, pointed cabbage;41;Cabbage;Savoycabbage,pointedcabbage;Cabbage;41;0.51;0.56;;353;Asparagus;0.49;0.49
+18;422;Spinat;Spinach;441;Spinach;Spinach;Spinach;441;0.49;0.50;;358;Sprouting broccoli;0.49;0.47
+19;423;Sukkermajs;Sweet corn;2;Maize;Sweetcorn;Maize;2;0.51;0.50;;367;Celeriac;0.5;0.64
+20;424;Ærter, konsum;Peas;48;Pea;Peas;Pea;48;0.49;0.50;;385;Parsley;0.51;0.48
+21;429;Jordskokker, konsum;Jerusalem artichoke;460;Jerusalem artichoke;Jerusalemartichoke;Jerusalemartichoke;460;0.50;0.50;;391;Highbush blueberry;0.5;0.49
+22;430;Bladpersille;Leaf parsley;385;Parsley;Leafparsley;Parsley;385;0.50;0.48;;395;European hazelnut;0.51;0.4
+23;511;Græskar;Pumpkin;163;Pumpkin;Pumpkin;Pumpkin;163;0.50;0.71;;404;Black currant;0.49;0.7
+24;512;Rabarber;Rhubarb;479;Garden rhubarb;Rhubarb;Gardenrhubarb;479;0.48;0.74;;405;Red currant;0.51;0.7
+25;513;Jordbær;Strawberry;88;Garden strawberry;Strawberry;Gardenstrawberry;88;0.51;0.50;;407;European gooseberry;0.61;0.66
+26;514;Solbær;Blackcurrant;404;Black currant;Blackcurrant;Blackcurrant;404;0.49;0.70;;431;Pear;0.5;0.5
+27;515;Ribs;Redcurrant;405;Red currant;Redcurrant;Redcurrant;405;0.51;0.70;;437;Cherry, Sour;0.49;0.71
+28;516;Stikkelsbær;Gooseberry;407;European gooseberry;Gooseberry;Europeangooseberry;407;0.61;0.66;;439;Red raspberry;0.63;0.6
+29;518;Hindbær;Raspberry;439;Red raspberry;Raspberry;Redraspberry;439;0.63;0.60;;441;Spinach;0.49;0.5
+30;519;Blåbær;Blueberry;391;Highbush blueberry;Blueberry;Highbushblueberry;391;0.50;0.49;;442;Parsnip;0.5;0.36
+31;520;Surkirsebær;Sour cherry;437;Cherry, Sour;Sourcherry;Cherry,Sour;437;0.49;0.71;;446;Leek;0.52;0.49
+32;522;Blomme;Plum;98;Plum;Plum;Plum;98;0.48;0.71;;458;Garden beet;0.5;0.5
+33;524;Sødkirsebær;Sweet cherry;97;Cherry, Sweet;Sweetcherry;Cherry,Sweet;97;0.50;0.76;;460;Jerusalem artichoke;0.5;0.5
+35;527;Hassel;Hazel;395;European hazelnut;Hazel;Europeanhazelnut;395;0.51;0.40;;463;West Indian gherkin;0.5;0.75
+36;528;Æbler;Apple;21;Apple;Apple;Apple;21;0.50;0.50;;479;Garden rhubarb;0.48;0.74
+37;529;Pærer;Pear;431;Pear;Pear;Pear;431;0.50;0.50;;;;;
+38;530;Vindrue;Wine grape;3;European wine grape;Winegrape;Europeanwinegrape;3;0.50;0.50;;;;;
+40;540;Tomater;Tomato;17;Tomato;Tomato;Tomato;17;0.45;0.70;;;;;
+41;541;Agurker;Cucumber;49;Cucumber;Cucumber;Cucumber;49;0.51;0.67;;;;;

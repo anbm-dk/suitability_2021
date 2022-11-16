@@ -1,0 +1,358 @@
+Kode;Afgrøde
+0;Fejlregistrering
+1;Vårbyg
+2;Vårhvede
+3;Vårhavre
+4;Blanding af vårsåede arter
+5;Majs til modenhed
+6;Vårhvede, brødhvede
+7;Korn + bælgsæd under 50% bælgsæd
+8;Vårspelt
+9;Vinterspelt
+10;Vinterbyg
+11;Vinterhvede
+13;Vinterhvede, brødhvede
+14;Vinterrug
+15;Vinterhybridrug
+16;Vintertriticale
+17;Blanding af efterårssåede arter
+21;Vårraps
+22;Vinterraps
+23;Rybs
+24;Solsikke
+25;Sojabønner
+30;Ærter
+31;Hestebønner
+32;Sødlupin
+35;Bælgsæd, flerårig blanding
+36;Bælgsæd, andre typer til modenhed blanding
+40;Oliehør
+41;Spindhør
+42;Hamp
+50;Anden bredbladet afgrøde
+51;Blanding bredbladet afgrøde, frø/kerne
+52;Quinoa
+53;Boghvede
+54;Bælgsæd blanding
+55;Vårrug
+56;Vårtriticale
+57;Vinterhavre
+58;Sorghum
+101;Rajgræsfrø, alm.
+102;Rajgræsfrø, alm. 1. år, efterårsudlagt
+103;Rajgræsfrø, ital.
+104;Rajgræsfrø, ital. 1. år efterårsudlagt
+105;Timothefrø
+106;Hundegræsfrø
+107;Engsvingelfrø
+108;Rødsvingelfrø
+109;Rajsvingelfrø
+110;Svingelfrø, stivbladet
+111;Svingelfrø, strand-
+112;Engrapgræsfrø (marktype)
+113;Engrapsgræsfrø (plænetype)
+114;Rapgræsfrø, alm.
+115;Hvenefrø, alm. og krybende
+116;Rajgræs, hybrid
+117;Rajgræs, efterårsudl. hybrid
+118;Rajsvingelfrø, efterårsudlagt
+120;Kløverfrø
+121;Bælgplanter, frø
+122;Kommenfrø
+123;Valmuefrø
+124;Spinatfrø
+125;Bederoefrø
+126;Blanding af markfrø til udsæd
+149;Kartofler, lægge- (certificerede)
+150;Kartofler, lægge- (egen opformering)
+151;Kartofler, stivelses-
+152;Kartofler, spise-
+153;Kartofler, andre
+160;Sukkerroer til fabrik
+161;Cikorierødder
+162;Blanding, andre industriafgr.
+170;Græs til fabrik (omdrift)
+171;Lucerne, slæt
+172;Lucernegræs, over 25% græs til slæt inkl. eget foder
+173;Kløver til slæt
+174;Kløvergræs til fabrik
+180;Gul sennep
+181;Anden oliefrøart
+182;Blanding af oliearter
+210;Vårbyg, helsæd
+211;Vårhvede, helsæd
+212;Vårhavre, helsæd
+213;Blandkorn, vårsået, helsæd
+214;Korn og bælgsæd, helsæd, under 50% bælgsæd
+215;Ærtehelsæd
+216;Silomajs
+220;Vinterbyg, helsæd
+221;Vinterhvede, helsæd
+222;Vinterrug, helsæd
+223;Vintertriticale, helsæd
+224;Blandkorn, efterårssået helsæd
+230;Blanding af vårkorn, grønkorn
+234;Korn og bælgsæd, grønkorn, under 50% bælgsæd
+235;Blanding af vinterkorn, grønkorn
+247;Miljøgræs MVJ-tilsagn (0 N), omdrift
+248;Permanent græs ved vandboring
+249;Udnyttet græs ved vandboring
+250;Permanent græs, meget lavt udbytte
+251;Permanent græs, lavt udbytte
+252;Permanent græs, normalt udbytte
+253;Miljøgræs MVJ-tilsagn (80 N), omdrift
+254;Miljøgræs MVJ-tilsagn (0 N), permanent
+255;Permanent græs, under 50% kløver/lucerne
+256;Permanent kløvergræs, over 50% kløver/lucerne
+257;Permanent græs, uden kløver
+258;Permanent græs, ø-støtte
+259;Permanent græs, fabrik, over 6 tons
+260;Græs med kløver/lucerne, under 50 % bælgpl. (omdrift)
+261;Kløvergræs, over 50% kløver (omdrift)
+262;Lucernegræs, over 50% lucerne (omdrift)
+263;Græs uden kløvergræs (omdrift)
+264;Græs og kløvergræs uden norm, under 50 % kløver (omdrift)
+265;Græs/kløvergræs slæt før vårsåede afgrøder
+266;Græs under 50% kløver/lucerne, ekstremt lavt udbytte (omdrift)
+267;Græs  under 50% kløver/lucerne, meget lavt udbytte (omdrift)
+268;Græs under 50% kløver/lucerne, lavt udbytte (omdrift)
+269;Græs, rullegræs
+270;Græs til udegrise, omdrift
+271;Rekreative formål
+272;Permanent græs til fabrik
+273;Lucerne til fabrik
+274;Permanent lucernegræs over 25% græs, til fabrik
+275;Rullegræs, permanent
+276;Permanent græs og kløvergræs uden norm, under 50 % kløver
+277;Kløver til fabrik
+278;Permanent lucerne og lucernegræs over 50% lucerne
+279;Permanent kløvergræs til fabrik
+280;Fodersukkerroer
+281;Kålroer
+282;Fodermarvkål
+283;Fodergulerødder
+284;"Græs med vikke og andre bælgplanter, under 50 % bælgpl.
+"
+285;Græs og kløvergræs uden norm, over 50 % kløver (omdrift)
+286;Permanent græs og kløvergræs uden norm, over 50 % kløver
+287;Græs til udegrise, permanent
+305;Permanent græs, uden udbetaling af økologi-tilskud
+306;Græs i omdrift, uden udbetaling af økologi-tilskud
+308;MFO-brak, sommerslåning
+309;Udyrket areal ved vandboring
+310;Brak, sommerslåning
+311;Skovrejsning på tidl. landbrugsjord 1
+312;20-årig udtagning
+313;20-årig udtagning af agerjord med frivillig skovrejsning
+314;20-årig udtagning med tilsagn om skovrejsning
+315;Miljøgræs brugt som udtagning
+316;Udtagning med fastholdelse, ej landbrugsareal
+316;Udtagning med fastho
+317;Vådområder med udtagning
+318;MVJ ej udtagning, ej landbrugsareal
+319;MFO-brak, Udtagning, ej landbrugsareal
+320;Braklagte randzoner
+321;Miljøtiltag, ej landbrugsarealer
+322;Minivådområder, projekttilsagn
+323;MFO-udyrket areal ved vandboring
+324;Blomsterbrak
+325;MFO-Blomsterbrak
+326;Ej landbrug, MSO, omlagt fra permanent græs
+327;MFO-bræmme, sommerslåning
+328;MFO-bræmme med blomsterblanding
+329;MFO-bræmme, miljøtilsagn
+334;MFO-bræmme, forårsslåning
+335;MFO-bræmme, permanent græs, forårsslåning
+336;MFO-bræmme, permanent græs, sommerslåning 
+337;MFO-bræmme, permanent græs, miljøtilsagn
+338;Brak, forårsslåning
+339;MFO-brak, forårsslåning
+340;Randzoneordning, PD uden udtagningsforpligtigelse
+341;Randzoneordning, Pd med udtagningsforpligtigelse
+342;Bestøverbrak
+343;MFO-bestøverbrak
+350;Miljøgræs med N-kvote
+360;Vildtafgrøder
+361;Ikke støtteberettiget landbrugsareal
+400;Asieagurker
+401;Asparges
+402;Bladselleri
+403;Blomkål
+404;Broccoli
+405;Courgette, squash
+406;Grønkål
+407;Gulerod
+408;Hvidkål
+409;Kinakål
+410;Knoldselleri
+411;Løg
+412;Pastinak
+413;Rodpersille
+415;Porre
+416;Rosenkål
+417;Rødbede
+418;Rødkål
+420;Salat (friland)
+421;Savoykål, spidskål
+422;Spinat
+423;Sukkermajs
+424;Ærter, konsum
+429;Jordskokker, konsum
+430;Bladpersille
+431;Purløg
+432;Krydderurter (undtagen persille og purløg)
+433;Krydderurt
+434;Grøntsager, andre (friland)
+440;Solhat
+448;Medicinpl., en- og toårige
+449;Medicinpl., stauder 
+450;Grøntsager, blandinger
+486;Hønsegård uden plantedække
+487;Skovlandbrug
+488;Hønsegård, permanent græs
+489;Havtorn
+491;Storfrugtet tranebær
+492;Tyttebær 
+493;Surbær 
+494;Japan kvæde
+495;Morbær 
+496;Medicinpl., vedplanter
+497;Planteskolekulturer, vedplanter, til videresalg
+498;Containerplads 4, vedplanter
+499;Lukket system
+500;Buske og træer Planteskoleplanter
+501;Stauder
+502;Blomsterløg
+503;En- og to-årige planter
+504;Solbær, stiklingeopformering
+505;Ribs, stiklingeopformering
+506;Stikkelsbær, stiklingeopformering
+507;Hindbær, stiklingeopformering
+508;Andre af slægten Vaccinium
+509;Trækvæde
+510;Melon
+511;Græskar
+512;Rabarber
+513;Jordbær
+514;Solbær
+515;Ribs
+516;Stikkelsbær
+517;Brombær
+518;Hindbær
+519;Blåbær
+520;Surkirsebær uden undervækst af græs
+521;Surkirsebær med undervækst af græs
+522;Blomme uden undervækst af græs
+523;Blomme med undervækst af græs
+524;Sødkirsebær uden undervækst af græs
+525;Sødkirsebær med undervækst af græs
+526;Hyld
+527;Hassel
+528;Æbler
+529;Pærer
+530;Vindrue
+531;Anden træfrugt
+532;Anden buskfrugt
+533;Rønnebær
+534;Hyben
+535;Bærmispel
+536;Spisedruer
+537;Valnød (almindelig)
+538;Kastanje (ægte)
+539;Blandet frugt
+540;Tomater
+541;Agurker
+542;Salat (drivhus)
+543;Grøntsager, andre (drivhus)
+544;Snitblomster og snitgrønt
+545;Potteplanter
+547;Planteskolekulturer, stauder
+548;Småplanter, en-årige
+549;Lukket system 1
+550;Lukket system 2
+551;Moskusgræskar
+552;Mandelgræskar
+553;Centnergræskar
+560;Containerplads 1
+561;Containerplads 2
+562;Containerplads 3
+563;Svampe, champignon
+564;Containerplads
+570;Humle
+576;skovrejsning (statslig) - forbedring af vandmiljø og grundvandsbeskyttelse
+577;Skov med biodiversitetsformål
+578;Skovrejsning (privat) – forbedring af vandmiljø og grundvandsbeskyttelse
+579;Tagetes, sygdomssanerende plante
+580;Skovdrift, alm.
+581;Nyplantning i skov med træhøjde under 3 m
+582;Pyntegrønt, økologisk jordbrug
+583;Juletræer og pyntegrønt på landbrugsjord
+584;Juletræer i fredskov
+585;Skovrejsning i projektområde, som ikke er omfattet af tilsagn
+586;Offentlig skovrejsning
+587;Skovrejsning på tidl. landbrugsjord 3
+588;Statslig skovrejsning
+589;Bæredygtig skovdrift
+590;Bæredygtig skovdrift i Natura 2000-område
+591;Lavskov
+592;Pil
+593;Poppel (0-100 andre træer pr. ha)
+594;El
+596;Elefantgræs
+597;Rørgræs
+598;Sorrel
+599;Poppel (100-400 andre træer pr. ha)
+602;MFO - Pil
+603;MFO - Poppel (0-100 andre træer pr. ha)
+604;MFO - El
+605;MFO - Lavskov
+606;MFO - Poppel (100-400 andre træer pr. ha)
+650;Chrysanthemum Garland, frø
+651;Dildfrø
+652;Kinesisk kålfrø
+653;Karsefrø
+654;Rucolafrø
+655;Radisefrø (inklusiv olieræddikefrø)
+656;Bladbedefrø, rødbedefrø
+657;Grønkålfrø
+658;Gulerodsfrø
+659;Kålfrø (hvid- og rødkål)
+660;Persillefrø
+661;Kørvelfrø
+662;Majroefrø
+663;Pastinakfrø
+664;Skorzonerrod/skorzonerrodfrø
+665;Havrerodfrø
+666;Purløgsfrø
+667;Timianfrø
+668;Blomsterfrø
+669;Andet havefrø
+701;Grønkorn af vårbyg
+702;Grønkron af vårhvede
+703;Grønkorn af vårhavre
+704;Grønkorn af vårrug
+705;Grønkorn af vårtriticale
+706;Grønkorn af vinterbyg
+707;Grønkorn af vinterhvede
+708;Grønkorn af vinterhavre
+709;Grønkorn af vinterrug
+710;Grønkorn af hybridrug
+711;Grønkorn af vintertriticale
+777;Ex-non-food brak
+888;Nye tilsagn uden råderet v. ansøgningsfristen
+900;Øvrige afgrøder
+901;Naturarealer
+902;Naturlignende arealer
+903;Lysåbne arealer i skov
+904;Åbne arealer i skov
+905;Anden anvendelse på tilsagnsarealer
+906;Afmeldte arealer
+907;Naturarealer, økologisk jordbrug
+908;Naturarealer, ansøgning om miljøtilsagn
+908;Naturarealer, ansøg
+910;Ikke anmeldt mark
+920;Økologisk sommerbra
+921;Bar jord
+995;Slettet mark
+997;Ikke kontrolleret afgrød
+998;Ukendt afgrøde

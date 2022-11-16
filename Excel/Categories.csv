@@ -1,0 +1,17 @@
+Kode;Afgrøde;Kategori;Catcode;Catname
+400;Asieagurker;agurk;c01;Cucumbers
+541;Agurker;agurk;c01;Cucumbers
+403;Blomkål;kål;c02;Cabbages
+404;Broccoli;kål;c02;Cabbages
+406;Grønkål;kål;c02;Cabbages
+408;Hvidkål;kål;c02;Cabbages
+416;Rosenkål;kål;c02;Cabbages
+418;Rødkål;kål;c02;Cabbages
+421;Savoykål, spidskål;kål;c02;Cabbages
+411;Løg;løg;c03;Onions
+415;Porre;løg;c03;Onions
+431;Purløg;løg;c03;Onions
+413;Rodpersille;persille;c04;Parsley
+430;Bladpersille;persille;c04;Parsley
+402;Bladselleri;selleri;c05;Celery
+410;Knoldselleri;selleri;c05;Celery
