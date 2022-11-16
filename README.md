@@ -5,9 +5,9 @@ al. (2021). There is no maintenance on this code, and usage comes with
 no warranty whatsoever.
 
 Due to size limitations, the covariates from the study are not available
-from this repository. Instead they are available as a zip (link below)
+from this repository. Instead they are available as a zip (link below).
 
-# References
+## References
 
 Møller, A.B., Mulder, V.L., Heuvelink, G.B.M., Jacobsen, N.M., Greve,
 M.H., 2021. Can we use machine learning for agricultural land
