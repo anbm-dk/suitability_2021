@@ -7,7 +7,7 @@ output:
     keep_html: true
 ---
 
-# suitability_2021
+## Contents
 
 This repository contains the source code and input data for Møller et al. (2021). There is no maintenance on this code, and usage comes with no warranty whatsoever.
 

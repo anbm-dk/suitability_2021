@@ -3,7 +3,7 @@ README
 Anders Bjørn Møller
 2022-11-16
 
-# suitability_2021
+## Contents
 
 This repository contains the source code and input data for Møller et
 al. (2021). There is no maintenance on this code, and usage comes with
