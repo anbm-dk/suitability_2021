@@ -3,8 +3,8 @@ title: "README"
 author: "Anders Bjørn Møller"
 date: "2022-11-16"
 output:
-  html_document: default
-  github_document: default
+  github_document:
+    keep_html: true
 ---
 
 # suitability_2021
